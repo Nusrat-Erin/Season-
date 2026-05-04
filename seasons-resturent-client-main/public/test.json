@@ -1,0 +1,240 @@
+[
+  {
+    "fname": "Cheeseburger",sssssssssssss
+    "fimage": "https://i.ibb.co/P6XFCRK/burger-0.jpg",
+    "category": "Burgers",
+    "price": 5.99,
+    "origin": "USA",
+    "stock": 50,
+    "addby": "JohnDoe",
+    "description": "A classic cheeseburger with a juicy patty, cheese, lettuce, and tomato. Served on a toasted bun with your choice of condiments and accompanied by a side of crispy french fries. This mouthwatering burger is a timeless favorite that never goes out of style. Perfect for a quick and satisfying meal on the go. Whether you're a meat lover or a vegetarian, this cheeseburger is sure to please. Add some ketchup, mustard, or mayonnaise for that extra flavor kick. Get ready to indulge in the ultimate comfort food with our delicious cheeseburger!",
+    "count": 0
+  },
+
+
+  {
+    "fname": "Chicken Nuggets",sSSSSSSSSSSS
+    "fimage": "https://i.ibb.co/B2yr2NK/AIR-FRYER-CHICKEN-NUGGETS-4.jpg",
+    "category": "Appetizers",
+    "price": 4.49,
+    "origin": "USA",
+    "stock": 30,
+    "addby": "JaneSmith",
+    "description": "Crispy and delicious chicken nuggets, perfect for snacking. Made from tender pieces of chicken coated in a seasoned breadcrumb crust, these nuggets are a crowd-pleaser. Great for kids and adults alike. Serve with your choice of dipping sauces like barbecue, honey mustard, or ranch. Whether it's game day or movie night, these chicken nuggets are the perfect bite-sized treat to enjoy with friends and family.",
+    "count": 0
+  },
+  {
+    "fname": "Pepperoni Pizza",ssssssss
+    "fimage": "https://i.ibb.co/p1661tT/pepperoni-pizza-standard.jpg",
+    "category": "Pizza",
+    "price": 8.99,
+    "origin": "Italy",
+    "stock": 40,
+    "addby": "MikeJohnson",
+    "description": "A classic pepperoni pizza with a thin crust, tomato sauce, and plenty of pepperoni slices. Our mouthwatering pizza is inspired by the traditional Italian recipe and features a perfect balance of flavors. The thin, crispy crust is topped with rich tomato sauce, mozzarella cheese, and savory pepperoni. It's the perfect choice for pizza lovers who enjoy the classic combination of cheese and pepperoni. Whether you're dining in or ordering for delivery, this pepperoni pizza is sure to satisfy your pizza cravings.",
+    "count": 0
+  },
+  {
+    "fname": "French Fries",
+    "fimage": "french_fries.jpg",
+    "category": "Sides",
+    "price": 2.99,
+    "origin": "Belgium",
+    "stock": 60,
+    "addby": "SarahBrown",
+    "description": "Crispy and golden french fries, perfect for satisfying your cravings. Our fries are made from high-quality potatoes, perfectly seasoned, and fried to a golden perfection. They make an ideal side dish to accompany your favorite fast food meals. Enjoy them with ketchup or other condiments for an extra burst of flavor. Whether you're grabbing a quick bite or enjoying a full meal, these fries will always hit the spot. Don't forget to add them to your order!",
+    "count": 0
+  },
+  {
+    "fname": "Fish and Chips",
+    "fimage": "fish_and_chips.jpg",
+    "category": "Seafood",
+    "price": 7.49,
+    "origin": "United Kingdom",
+    "stock": 25,
+    "addby": "ChrisWilliams",
+    "description": "A classic British dish with fried fish and thick-cut potato chips. Our fish and chips are a beloved traditional meal inspired by the United Kingdom. Enjoy a generous portion of flaky, tender fish coated in a light, crispy batter, served alongside thick-cut potato chips. It's all perfectly complemented by a side of tartar sauce. Whether you're by the seaside or craving a taste of Britain, our fish and chips are a delightful choice. Savor the authentic flavors of this classic dish today!",
+    "count": 0
+  }
+
+
+
+
+
+
+
+
+
+  {
+    "fname": "Chocolate Brownie Sundae",SSSSSSSSSSSS
+    "fimage": "chocolate_brownie_sundae.jpg",
+    "category": "Sundaes",
+    "price": 6.99,
+    "origin": "USA",
+    "stock": 40,
+    "addby": "DessertDelights",
+    "description": "Indulge in a decadent treat with our Chocolate Brownie Sundae. It features a warm chocolate brownie topped with a scoop of creamy vanilla ice cream, drizzled with rich chocolate sauce and crowned with whipped cream and a cherry. This delightful dessert is the perfect combination of warm and cold, sweet and savory, and is sure to satisfy your sweet cravings. Whether you're celebrating a special occasion or simply treating yourself, our Chocolate Brownie Sundae is a delectable choice that will leave you wanting more.",
+    "count": 0
+  },
+  {
+    "fname": "Strawberry Cheesecake",sssssssssss
+    "fimage": "strawberry_cheesecake.jpg",
+    "category": "Cheesecakes",
+    "price": 8.49,
+    "origin": "USA",
+    "stock": 25,
+    "addby": "SweetTreatsCo",
+    "description": "Our Strawberry Cheesecake is a heavenly delight. It features a creamy cheesecake on a graham cracker crust, generously topped with fresh, sweet strawberries and a luscious strawberry glaze. The combination of rich, velvety cheesecake and the bright, fruity burst of strawberries is a match made in dessert heaven. With every bite, you'll experience a symphony of flavors that will leave your taste buds dancing. Share this delightful cheesecake with loved ones or savor it all for yourself. It's a slice of pure indulgence.",
+    "count": 0
+  },
+  {
+    "fname": "Tiramisu",
+    "fimage": "tiramisu.jpg",
+    "category": "Cakes",
+    "price": 7.99,
+    "origin": "Italy",
+    "stock": 30,
+    "addby": "DolceVitaDesserts",
+    "description": "Transport your taste buds to Italy with our Tiramisu. This classic Italian dessert features layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder for an exquisite taste experience. Tiramisu is known for its perfect balance of sweetness and the bold kick of coffee, making it a favorite among dessert enthusiasts. Whether you're enjoying it at a special gathering or simply treating yourself, our Tiramisu is a delightful way to savor a taste of Italy.",
+    "count": 0
+  },
+  {
+    "fname": "Fruit Parfait",
+    "fimage": "fruit_parfait.jpg",
+    "category": "Parfaits",
+    "price": 5.49,
+    "origin": "France",
+    "stock": 35,
+    "addby": "YummyDelightsInc",
+    "description": "Our Fruit Parfait is a delightful combination of fresh, seasonal fruits, creamy yogurt, and crunchy granola. It's a light and healthy option for those looking for a guilt-free treat. With layers of succulent fruit, smooth yogurt, and crispy granola, this parfait provides a refreshing and satisfying taste experience. Whether you're starting your day with a nutritious breakfast or enjoying it as a midday snack, our Fruit Parfait is a flavorful and wholesome choice.",
+    "count": 0
+  },
+  {
+    "fname": "Molten Lava Cake",ssssssssssssss
+    "fimage": "molten_lava_cake.jpg",
+    "category": "Cakes",
+    "price": 6.99,
+    "origin": "France",
+    "stock": 20,
+    "addby": "SweetIndulgence",
+    "description": "Experience pure bliss with our Molten Lava Cake. This dessert masterpiece boasts a warm, gooey chocolate cake center that oozes with chocolate sauce when you take your first bite. Served with a scoop of vanilla ice cream, it's the ultimate indulgence. Whether you're celebrating a special occasion or simply satisfying your sweet tooth, our Molten Lava Cake is a guaranteed crowd-pleaser. It's a symphony of textures and flavors that will leave you craving more. Dive into the irresistible decadence of warm, molten chocolate paired with cool, creamy ice cream for a dessert experience like no other.",
+    "count": 0
+  }
+]
+
+{
+  "fname": "Tropical Mango Splash",sssss
+  "fimage": "tropical_mango_juice.jpg",
+  "category": "Fruit Juices",
+  "price": 3.99,
+  "origin": "Tropical Islands",
+  "stock": 50,
+  "addby": "JuiceLoversCo",
+  "description": "Quench your thirst with our Tropical Mango Splash juice. Made from ripe, sun-kissed mangoes from tropical islands, this juice is a delightful burst of tropical flavor. It's a perfect blend of sweet and tangy, and it's a great choice for a refreshing and exotic experience.",
+  "count": 0
+},
+{
+  "fname": "Berry Bliss Burst",
+  "fimage": "berry_bliss_juice.jpg",
+  "category": "Mixed Berry Juices",
+  "price": 4.49,
+  "origin": "Berry Orchards",
+  "stock": 40,
+  "addby": "BerryDelights",
+  "description": "Sip on our Berry Bliss Burst juice, a delightful combination of ripe strawberries, blueberries, and raspberries. It's a symphony of berry flavors that will make your taste buds dance with joy. Perfect for those who love the sweet and slightly tart notes of mixed berries.",
+  "count": 0
+},
+{
+  "fname": "Citrus Zing Elixir",
+  "fimage": "citrus_zing_juice.jpg",
+  "category": "Citrus Juices",
+  "price": 3.79,
+  "origin": "Citrus Groves",
+  "stock": 55,
+  "addby": "ZestySips",
+  "description": "Experience the bright and invigorating flavors of our Citrus Zing Elixir juice. This refreshing elixir is a blend of zesty oranges, lemons, and limes, providing a burst of citrusy goodness. It's the perfect choice for those who crave a tangy and revitalizing beverage.",
+  "count": 0
+},
+{s
+  "fname": "Watermelon Wave",sssss
+  "fimage": "watermelon_wave_juice.jpg",
+  "category": "Melon Juices",
+  "price": 4.99,
+  "origin": "Fruit Orchards",
+  "stock": 35,
+  "addby": "SweetNectarCo",
+  "description": "Enjoy the refreshing taste of summer with our Watermelon Wave juice. Made from juicy, ripe watermelons, this juice is the perfect choice for a cooling and thirst-quenching experience. It's like taking a sip of sunshine on a hot day.",
+  "count": 0
+},
+{
+  "fname": "Pineapple Paradise Punch",
+  "fimage": "pineapple_paradise_juice.jpg",
+  "category": "Tropical Juices",
+  "price": 4.29,
+  "origin": "Tropical Islands",
+  "stock": 45,
+  "addby": "IslandElixirs",
+  "description": "Transport yourself to a tropical paradise with our Pineapple Paradise Punch. This juice is a fusion of sweet pineapple and other tropical fruits, creating a luscious and exotic flavor profile. It's the perfect escape in a glass, ideal for those looking to add a touch of the tropics to their day.",
+  "count": 0
+}
+
+
+
+
+{
+  "fname": "Spaghetti Carbonara",
+  "fimage": "spaghetti_carbonara.jpg",
+  "category": "Pasta",
+  "price": 12.99,
+  "origin": "Italy",
+  "stock": 40,
+  "addby": "PastaParadise",
+  "description": "Indulge in the creamy goodness of our Spaghetti Carbonara. This classic Italian dish features al dente spaghetti cooked to perfection, tossed with a luscious sauce made from eggs, grated Pecorino Romano cheese, and crispy pancetta. It's a harmonious blend of flavors, and every forkful is a savory delight. Whether you're a fan of Italian cuisine or looking to explore new flavors, our Spaghetti Carbonara is a must-try. It's comfort food at its finest, perfect for a cozy dinner at home or a special evening out.",
+  "count": 0
+},
+{
+  "fname": "Penne alla Vodka",
+  "fimage": "penne_vodka.jpg",
+  "category": "Pasta",
+  "price": 11.49,
+  "origin": "Italy",
+  "stock": 30,
+  "addby": "VivaLaPasta",
+  "description": "Experience the rich and creamy Penne alla Vodka, a delectable Italian pasta dish. Our penne pasta is cooked to al dente perfection and then swirled in a velvety tomato-based vodka sauce, accented with heavy cream and a dash of chili flakes for a gentle kick. It's a savory and slightly spicy sensation that will leave your taste buds tingling. Savor the bold flavors of Italy with every bite of our Penne alla Vodka, perfect for a memorable dining experience.",
+  "count": 0
+},
+{
+  "fname": "Lasagna Bolognese",
+  "fimage": "lasagna_bolognese.jpg",
+  "category": "Lasagna",
+  "price": 14.99,
+  "origin": "Italy",
+  "stock": 35,
+  "addby": "ItalianElegance",
+  "description": "Treat yourself to the ultimate comfort food with our Lasagna Bolognese. This Italian classic features layers of tender lasagna noodles, rich and hearty Bolognese sauce, creamy béchamel, and a generous helping of mozzarella and Parmesan cheese. It's a true masterpiece of flavors and textures, baked to perfection. Every bite is a journey through Italy's culinary heritage, and it's the perfect choice for a special occasion or a cozy family dinner. Our Lasagna Bolognese is a slice of Italian heaven on a plate.",
+  "count": 0
+},
+{
+  "fname": "Fettuccine Alfredo",
+  "fimage": "fettuccine_alfredo.jpg",
+  "category": "Pasta",
+  "price": 10.99,
+  "origin": "Italy",
+  "stock": 50,
+  "addby": "AlfredosKitchen",
+  "description": "Indulge in the creamy and velvety goodness of our Fettuccine Alfredo. This Italian classic features wide ribbons of fettuccine pasta tossed in a luxurious sauce made from heavy cream, butter, and Parmesan cheese. It's a simple yet rich and satisfying dish that's sure to please. Whether you're looking for a comforting meal or a delightful treat, our Fettuccine Alfredo is the perfect choice. Each forkful is a journey to pasta perfection.",
+  "count": 0
+},
+{
+  "fname": "Ravioli with Pesto",
+  "fimage": "ravioli_pesto.jpg",
+  "category": "Ravioli",
+  "price": 13.49,
+  "origin": "Italy",
+  "stock": 25,
+  "addby": "PestoPassion",
+  "description": "Experience the vibrant flavors of our Ravioli with Pesto. These delicate pockets of pasta are filled with a delicious blend of ricotta cheese and spinach, then drizzled with a fragrant and aromatic basil pesto sauce. It's a harmonious combination of flavors that will transport your taste buds to Italy. Our Ravioli with Pesto is a delightful and satisfying option for those seeking a taste of the Mediterranean.",
+  "count": 0
+}
+
+ 
